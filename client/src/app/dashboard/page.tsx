@@ -1,4 +1,4 @@
-import Link from "next/link"
+
 import CardPopularProducts from "./CardPopularProducts";
 import CardSalesSummary from "./CardSalesSummary";
 import CardPurchaseSummary from "./CardPurchaseSummary";
