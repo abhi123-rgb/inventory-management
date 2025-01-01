@@ -1,4 +1,4 @@
-MediaSourceHandle.exports = {
+module.exports = {
     apps: [
         {
             name: "inventory-management",
