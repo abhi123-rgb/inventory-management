@@ -70,7 +70,7 @@ function CardExpenseSummary() {
                     cx="50%"
                     cy="50%"
                   >
-                  {expenseCategories.map((entry,index)=>(
+                  {expenseCategories.map((_entry,index)=>(
                     <Cell 
                     key={`cell-${index}`}
                     fill={colors[index % colors.length]}
